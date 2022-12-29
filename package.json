@@ -1,0 +1,46 @@
+{
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.2.1",
+    "@fortawesome/free-solid-svg-icons": "^6.2.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "@headlessui/react": "^1.7.4",
+    "apexcharts": "^3.36.3",
+    "axios": "^1.2.1",
+    "chart.js": "^4.0.1",
+    "chartjs-adapter-luxon": "^1.3.0",
+    "classnames": "^2.3.2",
+    "crypto-js": "^4.1.1",
+    "flowbite": "^1.5.4",
+    "flowbite-react": "^0.3.6",
+    "jsonwebtoken": "^9.0.0",
+    "luxon": "^3.1.0",
+    "mongodb": "^4.8.1",
+    "mongoose": "^6.7.3",
+    "next": "latest",
+    "next-auth": "^4.18.7",
+    "nextjs-cors": "^2.1.1",
+    "react": "^18.2.0",
+    "react-apexcharts": "^1.4.0",
+    "react-chartjs-2": "^5.0.1",
+    "react-dom": "^18.2.0",
+    "react-router-dom": "^6.6.1",
+    "react-toastify": "^9.1.1"
+  },
+  "devDependencies": {
+    "@babel/helper-compilation-targets": "^7.20.0",
+    "@types/node": "18.7.5",
+    "@types/react": "^16.9.17",
+    "@types/react-dom": "^18.0.9",
+    "autoprefixer": "^10.4.13",
+    "postcss": "^8.4.19",
+    "tailwind-scrollbar": "^2.0.1",
+    "tailwindcss": "^3.2.4",
+    "typescript": "4.6.3"
+  }
+}
